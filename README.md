@@ -1,6 +1,6 @@
 naturalSort
 ===========
-naturalsort node naturalSort.js 
+	>naturalsort node naturalSort.js 
 
 	Unsorted:
 	 [ 'hello10',
